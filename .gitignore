@@ -1,0 +1,4 @@
+virt/
+logs/gunicorn_supervisor.log
+logs/nginx-access.log
+logs/nginx-error.log
